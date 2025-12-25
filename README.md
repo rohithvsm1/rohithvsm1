@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi, I’m Rohith Vasam 👋  
+Senior SDET | Test Automation Engineer  
 
-<!--
-**rohithvsm1/rohithvsm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design and build reliable test automation for web, API, and mobile platforms,
+with a focus on validating real business behavior rather than UI mechanics.
 
-Here are some ideas to get you started:
+### 🔧 Tech Stack
+- Java, JavaScript
+- Playwright, Cypress, Appium
+- Selenium, REST Assured
+- CI/CD (Jenkins, GitHub Actions)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+- **Playwright Billing Automation** – Java-based POM framework validating billing flows  
+- **Cypress Billing E2E** – User-centric Cypress E2E automation  
+- **Appium Mobile Automation** – Native Android/iOS automation using Page Object Model  
+
+### 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/your-link
