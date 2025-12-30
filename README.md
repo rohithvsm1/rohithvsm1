@@ -6,6 +6,7 @@
 💳 FinTech Billing 📱 iOS/Android ☁️ CI/CD Pipelines
 
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohithvsm)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvasam@email.com)
 
@@ -15,7 +16,7 @@
 
 | **iOS SwiftUI** | **WCAG Playwright** | **Cypress E2E** | **Appium Android** | **Playwright UI** |
 |----------------|-------------------|----------------|-------------------|------------------|
-| [![Status](https://github.com/rohithvsm1/ios-billing-risk-automation/workflows/iOS%20Build/badge.svg?branch=main)](https://github.com/rohithvsm1/ios-billing-risk-automation/actions) | [![Status](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/workflows/Playwright/badge.svg?branch=main)](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/actions) | ⏳ CI/CD LIVE | ⏳ CI/CD LIVE | ⏳ CI/CD LIVE |
+| ✅ [LIVE](https://github.com/rohithvsm1/ios-billing-risk-automation/actions) | ✅ [LIVE](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/actions) | ✅ [Repo](https://github.com/rohithvsm1/cypress-billing-automation) | ✅ [Repo](https://github.com/rohithvsm1/appium-mobile-automation) | ✅ [Repo](https://github.com/rohithvsm1/playwright-ui-automation) |
 
 ## 🔥 **58 COMMITS • Dec 2025**
 
