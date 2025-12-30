@@ -1,70 +1,40 @@
-Hi, I’m Rohith Vasam 👋  
-Senior SDET | Test Automation Engineer
+<div align="center">
 
-I design and build **reliable test automation systems** for web, API, and mobile platforms, with a focus on **validating real business behavior rather than UI mechanics**. My work emphasizes deterministic execution, maintainable frameworks, and CI-ready automation.
+# 👋 Rohith Vasam | Senior SDET
+**AT&T | Chicago, IL | 5+ yrs FinTech/Telecom**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/rohithvsm)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rohithvasam@email.com)
 
-## 🔧 Tech Stack
-- **Languages:** Java, JavaScript, Swift  
-- **Web Automation:** Playwright, Cypress, Selenium  
-- **Mobile Automation:** Appium (Android), XCUITest (iOS)  
-- **API Testing:** REST Assured  
-- **CI/CD:** Jenkins, GitHub Actions  
+</div>
 
----
+## 🏆 **LIVE CI/CD** (2/5 ✅)
 
-## 🚀 Featured Projects
+| iOS Billing | WCAG Playwright | Cypress | Appium | Playwright UI |
+|-------------|----------------|---------|--------|---------------|
+| [![Status](https://github.com/rohithvsm1/ios-billing-risk-automation/workflows/iOS%20Build/badge.svg)](https://github.com/rohithvsm1/ios-billing-risk-automation/actions) | [![Status](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/workflows/Playwright/badge.svg)](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/actions) | ⏳ | ⏳ | ⏳ |
 
-### Playwright Billing Automation (Java)
-Production-oriented billing UI automation framework.
-- API-driven invoice creation  
-- UI verification of backend billing state  
-- CI-friendly, deterministic execution  
+## 🔥 **5 REPOS • 58 COMMITS (Dec 2025)**
 
-### Cypress Billing E2E Automation
-User-centric Cypress automation for billing workflows.
-- Backend-driven test data setup  
-- UI used strictly for verification  
-- Stable, repeatable E2E execution  
+✅ ios-billing-risk-automation (16 commits) - SwiftUI + XCUITest [GREEN]
+✅ mindful-qa-accessibility-automation (8 commits) - Playwright WCAG [GREEN]
+✅ appium-mobile-automation (11 commits) - Android Native
+✅ cypress-billing-automation (4 commits) - E2E Billing
+✅ playwright-ui-automation (8 commits) - UI Automation
 
-### Appium Android Automation
-Native Android automation framework using Appium.
-- Page Object Model–based design  
-- Stable Android locator strategies  
-- Emulator-based execution  
+## 🛠 **STACK**
 
-### iOS Automation – XCUITest (Swift)
-Native iOS automation using XCUITest.
-- Validation of critical iOS user flows  
-- Platform-native testing approach  
-- Reliable execution on iOS simulators  
+🌐 Playwright - Cypress - Selenium - REST Assured
+📱 SwiftUI - XCUITest - Appium (Android/iOS)
+☁️ GitHub Actions - Jenkins - TestNG - POM
+📊 Java - JavaScript - SQL - CI/CD
 
-### Mindful QA – Mental Health Web Automation
-Playwright automation for a mental-health web application.
-- Emoji-based mood selection (low / medium / high)  
-- Reflective statement input  
-- Save and reload persistence validation  
-- Manual vs Playwright-recorded flow comparison  
 
-### API-Driven Test Utilities
-Reusable API helpers supporting UI automation.
-- Test data creation and control  
-- Backend-as-source-of-truth approach  
-- Enables stable UI validation across projects  
+<div align="center">
+**🔥 Senior SDET | Open to USA Opportunities**  
+AT&T • Chicago, IL
 
----
+[![Metrics](https://github-readme-stats.vercel.app/api?username=rohithvsm1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-## 🧠 Automation Approach
-- Backend as the source of truth  
-- UI automation used strictly for verification  
-- Clear separation of concerns  
-- CI-safe, parallel-friendly execution  
-- Flake-resistant test design  
 
----
-
-## 📌 About This GitHub
-This GitHub is a **practical automation portfolio**.
-
-Each repository is intentionally scoped to demonstrate **how production-quality automation is designed and reasoned about**, not just how tools are used.
