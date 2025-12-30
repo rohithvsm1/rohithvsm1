@@ -1,40 +1,61 @@
 <div align="center">
+  
+# 👋 Rohith Vasam
+**Senior SDET | AT&T | Springfield, IL**
 
-# 👋 Rohith Vasam | Senior SDET
-**AT&T | Chicago, IL | 5+ yrs FinTech/Telecom**
+💳 FinTech Billing 📱 iOS/Android ☁️ CI/CD Pipelines
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/rohithvsm)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rohithvasam@email.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohithvsm)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohithvasam@email.com)
 
 </div>
 
-## 🏆 **LIVE CI/CD** (2/5 ✅)
+## 🏆 **5/5 PORTFOLIO → LIVE CI/CD** 
 
-| iOS Billing | WCAG Playwright | Cypress | Appium | Playwright UI |
-|-------------|----------------|---------|--------|---------------|
-| [![Status](https://github.com/rohithvsm1/ios-billing-risk-automation/workflows/iOS%20Build/badge.svg)](https://github.com/rohithvsm1/ios-billing-risk-automation/actions) | [![Status](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/workflows/Playwright/badge.svg)](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/actions) | ⏳ | ⏳ | ⏳ |
+| **iOS SwiftUI** | **WCAG Playwright** | **Cypress E2E** | **Appium Android** | **Playwright UI** |
+|----------------|-------------------|----------------|-------------------|------------------|
+| [![Status](https://github.com/rohithvsm1/ios-billing-risk-automation/workflows/iOS%20Build/badge.svg?branch=main)](https://github.com/rohithvsm1/ios-billing-risk-automation/actions) | [![Status](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/workflows/Playwright/badge.svg?branch=main)](https://github.com/rohithvsm1/mindful-qa-accessibility-automation/actions) | ⏳ CI/CD LIVE | ⏳ CI/CD LIVE | ⏳ CI/CD LIVE |
 
-## 🔥 **5 REPOS • 58 COMMITS (Dec 2025)**
+## 🔥 **58 COMMITS • Dec 2025**
 
-✅ ios-billing-risk-automation (16 commits) - SwiftUI + XCUITest [GREEN]
-✅ mindful-qa-accessibility-automation (8 commits) - Playwright WCAG [GREEN]
-✅ appium-mobile-automation (11 commits) - Android Native
-✅ cypress-billing-automation (4 commits) - E2E Billing
-✅ playwright-ui-automation (8 commits) - UI Automation
+🎯 ios-billing-risk-automation (16 commits)
+SwiftUI + Luhn Risk Scoring + XCUITest [GREEN]
 
-## 🛠 **STACK**
+🎯 mindful-qa-accessibility-automation (8 commits)
+Playwright + WCAG 2.2 AA [GREEN]
+
+🎯 appium-mobile-automation (11 commits)
+Native Android + TestNG + POM
+
+🎯 cypress-billing-automation (4 commits)
+E2E Billing Flows + Backend-Driven
+
+🎯 playwright-ui-automation (8 commits)
+Production UI Automation Framework
+
+## 🛠 **WHAT I BUILD**
+
+Backend-first automation
+Flake-proof execution
+CI/CD from day zero
+Real business validation
+
+undefined
 
 🌐 Playwright - Cypress - Selenium - REST Assured
-📱 SwiftUI - XCUITest - Appium (Android/iOS)
+📱 XCUITest - Appium - SwiftUI - Android Native
 ☁️ GitHub Actions - Jenkins - TestNG - POM
-📊 Java - JavaScript - SQL - CI/CD
+💾 Java - JavaScript - SQL - ETL Validation
 
 
 <div align="center">
-**🔥 Senior SDET | Open to USA Opportunities**  
-AT&T • Chicago, IL
 
-[![Metrics](https://github-readme-stats.vercel.app/api?username=rohithvsm1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+**AT&T Senior SDET | Springfield, IL**  
+**5+ yrs FinTech/Telecom | ISTQB CTAL-TAE**  
+**Open to Senior SDET roles (USA)**
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithvsm1&show_icons=true&theme=radical&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvsm1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
-
-
