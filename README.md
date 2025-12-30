@@ -54,8 +54,3 @@ undefined
 **AT&T Senior SDET | Springfield, IL**  
 **5+ yrs FinTech/Telecom | ISTQB CTAL-TAE**  
 **Open to Senior SDET roles (USA)**
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohithvsm1&show_icons=true&theme=radical&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohithvsm1&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
